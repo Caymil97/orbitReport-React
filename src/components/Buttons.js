@@ -1,7 +1,9 @@
 const Buttons = () => {
   return (
     <div>
-      <button>Placeholder Button</button>
+      <button>Low Orbit</button>
+      <button>Medium Orbit</button>
+      <button>High Orbit</button>
       <button>All Orbits</button>
       </div>
   );

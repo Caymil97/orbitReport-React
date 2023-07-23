@@ -1,3 +1,4 @@
+import satData from './satData.js';
 const Buttons = () => {
   return (
     <div>

@@ -1,15 +1,15 @@
 const Table = ({ sat }) => {
   return (
-      <table>
+      <table> 
        <thead>
         <tr>
-          <th>Header TBD</th>
+          <th>Name</th>
         </tr>
         </thead>
         <tbody>
         <tr>
           <td>Row Data TBD</td>
-        </tr>
+        </tr> 
         </tbody>
       </table>
   );

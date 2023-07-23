@@ -1,7 +1,7 @@
 import './styling.css';
 function Banner() {
     return (
-    <header classname="header">
+    <header className="header">
         Orbit Report
     </header>
     );
